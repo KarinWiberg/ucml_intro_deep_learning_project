@@ -26,4 +26,6 @@ The files _train.py_ and _predict.py_ are used to:
 Free to use.
 
 # Acknowledgements
-Thank you Udacity for creating and supervising the project.
+Thank you:
+- Maria-Elena Nilsback and Andrew Zisserman for creating the flower data set.
+- Udacity for creating and supervising the project.

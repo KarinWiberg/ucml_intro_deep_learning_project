@@ -124,7 +124,7 @@ start = timeit.timeit()
 #with active_session():
 
 # Def of variables
-epochs = 10 # nr of trainings
+epochs = 5 # nr of trainings
 steps = 0
 running_loss = 0
 print_every = 5

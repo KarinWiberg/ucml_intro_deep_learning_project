@@ -1,6 +1,10 @@
-# Image Classifier
+# Project Description
 The image classifier has been developed to classify different species of flowers.
 
+## Data
+The data contains labelled images of 102 spieces of flowers, see [link](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html).
+
+## Objectives
 The code contains multiple steps:
 - Loading and preparing pre-labelled flower image data
 - Training a new classifier for the pre-trained model 'vgg16'
